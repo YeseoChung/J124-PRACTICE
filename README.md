@@ -38,11 +38,22 @@ _**Let's combine bold and italics**_
 
 
 
-
-![Name of the image][File path to the image]
-Format: ![Alt text](url)
+!['Name i give the image','Alt text describes the image'](/File path to the image or an image URL)
 
 
+**Image from a .jpg file in the repo**
+!['Puppy','cuteness'](/puppy.jpeg)
 
-![Puppy][/puppy.jpeg]
-Format: ![puppy dog](https://www.countryliving.com/uk/wildlife/pets/advice/a2899/buying-puppy-tips/)
+**Image from a URL**
+!['Puppy','morepuppy'](https://www.akcpetinsurance.com/res/akc/blog/2020/three-common-puppy-illnesses/akc-pupill-hdr.jpg)
+
+*This is a link*<br>
+[Google](https://www.google.com/)
+
+*This is a blockquote*
+
+In the wise w2ord of Blackstreet from "No Diggity":
+
+>Shwty get down, <br>
+>Good Lord 
+
