@@ -37,4 +37,12 @@ _**Let's combine bold and italics**_
 
 
 
-![Puppy]
+
+
+![Name of the image][File path to the image]
+Format: ![Alt text](url)
+
+
+
+![Puppy][/puppy.jpeg]
+Format: ![puppy dog](https://www.countryliving.com/uk/wildlife/pets/advice/a2899/buying-puppy-tips/)
